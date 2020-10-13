@@ -1,0 +1,19 @@
+C:\Users\Nurul\source\repos\Pemrograman Lanjut 2020\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps.csprojAssemblyReference.cache
+C:\Users\Nurul\source\repos\Pemrograman Lanjut 2020\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Nurul\source\repos\Pemrograman Lanjut 2020\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Nurul\source\repos\Pemrograman Lanjut 2020\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps_MarkupCompile.cache
+C:\Users\Nurul\source\repos\Pemrograman Lanjut 2020\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps_MarkupCompile.lref
+C:\Users\Nurul\source\repos\Pemrograman Lanjut 2020\Currency Apps\Currency Apps\bin\Debug\netcoreapp3.1\Currency Apps.exe
+C:\Users\Nurul\source\repos\Pemrograman Lanjut 2020\Currency Apps\Currency Apps\bin\Debug\netcoreapp3.1\Currency Apps.deps.json
+C:\Users\Nurul\source\repos\Pemrograman Lanjut 2020\Currency Apps\Currency Apps\bin\Debug\netcoreapp3.1\Currency Apps.runtimeconfig.json
+C:\Users\Nurul\source\repos\Pemrograman Lanjut 2020\Currency Apps\Currency Apps\bin\Debug\netcoreapp3.1\Currency Apps.runtimeconfig.dev.json
+C:\Users\Nurul\source\repos\Pemrograman Lanjut 2020\Currency Apps\Currency Apps\bin\Debug\netcoreapp3.1\Currency Apps.dll
+C:\Users\Nurul\source\repos\Pemrograman Lanjut 2020\Currency Apps\Currency Apps\bin\Debug\netcoreapp3.1\Currency Apps.pdb
+C:\Users\Nurul\source\repos\Pemrograman Lanjut 2020\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Nurul\source\repos\Pemrograman Lanjut 2020\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps.g.resources
+C:\Users\Nurul\source\repos\Pemrograman Lanjut 2020\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps.AssemblyInfoInputs.cache
+C:\Users\Nurul\source\repos\Pemrograman Lanjut 2020\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps.AssemblyInfo.cs
+C:\Users\Nurul\source\repos\Pemrograman Lanjut 2020\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps.csproj.CoreCompileInputs.cache
+C:\Users\Nurul\source\repos\Pemrograman Lanjut 2020\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps.dll
+C:\Users\Nurul\source\repos\Pemrograman Lanjut 2020\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps.pdb
+C:\Users\Nurul\source\repos\Pemrograman Lanjut 2020\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps.genruntimeconfig.cache
